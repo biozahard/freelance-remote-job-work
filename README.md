@@ -1,0 +1,85 @@
+# Русскоязычные ресурсы для фриланса и удаленной работы
+- https://upwork.com/
+- https://freelancehunt.com/
+- https://freelance.ua/
+- https://www.weblancer.net
+- https://www.fl.ru/
+- https://www.freelancer.com/
+
+# All sites:
+
+- https://upwork.com/ - Hire Freelancers & Get Freelance Jobs Online
+- http://www.monster.de/
+- http://djinni.co/
+- https://landing.jobs/
+- http://www.stepstone.de/
+- https://whoishiring.io/
+- https://weworkremotely.com - A page of 37Signals.
+- http://www.flexjobs.com/jobs/ - a service purely focusing on telecommuting, part-time, flexible jobs.
+- http://www.reddit.com/r/forhire/new/ - Subreddit for hiring, not purely a remote job page but have a lots.
+- http://hnhiring.me/ - an aggregator site collects job from HackerNews, easier to read.
+- http://workinstartups.com/ - not all jobs are remote but it has.
+- https://angel.co/jobs -  a lots of startup jobs, set filter for "Remote OK" will show remote jobs.
+- https://remotecoder.io/
+- http://www.authenticjobs.com/#onlyremote=1
+- http://www.remoteyear.com/jobs/ - job board of RemoteYear program.
+- http://nomadjobs.io/
+- http://jobmote.com/
+- http://workingnomads.co/
+- http://www.teamed.io/
+- http://www.toptal.com
+- http://automattic.com/work-with-us/ - Made wordpress.com, has remote working culture and employees are from everywhere in the world.
+- https://www.wfh.io/ - 100% remote tech-oriented job board
+- http://jobs.remotive.io/ - weekly update with remote jobs from startups.
+- http://remoteok.io/ - a remote job aggregator. Job from Angel List, Stackoverflow,…
+- http://remotus.com/ - a fulltime jobs for developers, still under construction. Seems have a lots of startup jobs.
+- http://www.candoerz.com/ - hourly update remote, relocate, freelance jobs aggregator.
+- https://upwork.com/
+- https://freelancehunt.com/
+- https://freelance.ua/
+- https://www.weblancer.net
+- https://www.fl.ru/
+- https://www.freelancer.com/
+
+
+# Projects
+
+- Angel List — Startup Jobs. Search by going to Job Type, and selecting "Remote OK".
+- Authentic Jobs – Full-time and freelance job opportunities for web, design, and creative professionals.
+- Stack Overflow Jobs
+- Dribbble Jobs
+- Drupal Jobs
+- Europe Remotely
+- Find Bacon
+- Flexjobs – Telecommuting Jobs & Professional Part-Time Jobs.
+- Front-end Developer Jobs — View as table, then sort by performed
+- FrontHAT — Aggragated and curated collection of 100% remote frontend development and design jobs.
+- Github Jobs — Location filter -> "Anywhere/Remote"
+- Golangprojects filter -> Remote only
+- GoRemote.io
+- Guru — (has MANY different categories outside software)
+- Hasjob – Location filter -> "Anywhere/Remote"
+- Honestlance
+- HigherEdJobs has remote type filter.
+- HN hiring – Filter REMOTE.
+- Jobbatical
+- JOBBOX.io – Filter -> Remote only.
+- Jobmote – Telecommuting jobs for IT professionals.
+- Jobspresso High-quality remote positions that are open and legitimate
+- Landing.jobs filter -> Remote only
+- No Fluff Jobs – Filter -> “remote”
+- Remote.co Jobs
+- RemoteBase — a searchable collection of remote companies and hiring info
+- Remote OK — Scrapes many job board feeds for remote positions.
+- Remote Python — Job board and aggregator specifically for remote Python jobs.
+- remote-jobs — A list of semi to fully remote-friendly companies in tech
+- Remotely Awesome Jobs — Crawls multiple job boards for remote job postings.
+- Remotive Jobs
+- Skip the Drive
+- Virtual Vocations
+- We Work Remotely
+- WFH.io
+- whoishiring.io
+- Working Nomads
+- Workana Freelance Job Board in Spanish and Portuguese
+- Work Remotely — Crawls and curates many job board feeds for remote positions
