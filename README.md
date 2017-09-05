@@ -2,6 +2,7 @@
 - https://upwork.com/
 - https://freelancehunt.com/
 - https://freelance.ua/
+- https://codestunts.com/
 - https://www.weblancer.net
 - https://www.fl.ru/
 - https://www.freelancer.com/
