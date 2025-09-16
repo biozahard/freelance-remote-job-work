@@ -1,10 +1,16 @@
-# Русскоязычные ресурсы для фриланса и удаленной работы
-- https://upwork.com/
-- https://freelancehunt.com/
-- https://freelance.ua/
-- https://www.weblancer.net
-- https://www.fl.ru/
-- https://www.freelancer.com/
+# Job websites for freelancers, outsources, outstaffers and IT consulting
+* [Toptal](https://www.toptal.com) - Exclusive network for top freelancers, covering software development, design, finance & more.
+* [We Work Remotely](https://weworkremotely.com) - Largest remote work community with 4.5M+ visitors, offering a wide range of remote job opportunities.
+* [FlexJobs](https://www.flexjobs.com/) - Find remote jobs globally or near you. Offers career coaching and resume help.
+* [RemoteOK](https://remoteok.com/) - Aggregates remote jobs across industries and allows filtering by category and salary.
+* [Remotive](https://remotive.io/) - Curates active, fully remote tech jobs. Trusted by top global tech companies.
+* [AI Jobs](https://theaijobboard.com) - Focuses on AI-related remote job listings. Features top 1% of AI companies.
+* [JS Remotely](https://jsremotely.com/) - Specializes in JavaScript-related remote jobs, including React, Vue, Node.js, and Angular roles.
+* [JustRemote](https://justremote.co/) - Jobs that fit your lifestyle, offering fully and partially remote options.
+* [Remote](https://remote.co/) - Hand-curated list of remote jobs. Features 146+ remote-first companies.
+* [Hubstaff Talent](https://hubstafftalent.net) - Free resource for companies looking for remote talent. Connects businesses with freelancers and agencies worldwide.
+* [Wellfound](https://wellfound.com/) - Connects job seekers with startups. 130K+ tech jobs from 27K companies.
+* [WorkWave](https://www.workwave.com/) - Remote job listings across various industries, known for flexible work opportunities.
 
 # All sites:
 
