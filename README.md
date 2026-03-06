@@ -46,6 +46,7 @@
 - https://www.weblancer.net
 - https://www.fl.ru/
 - https://www.freelancer.com/
+- https://www.okjob.io/ 4 day week jobs (only)
 
 
 # Projects
